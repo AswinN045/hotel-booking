@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Sunset Paradise Resort",
+      "location": "Goa, India",
+      "price": 120,
+      "rating": 4.5,
+      "image": "/images/hotel1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mountain View Inn",
+      "location": "Manali, India",
+      "price": 90,
+      "rating": 4.3,
+      "image": "/images/hotel2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ocean Breeze Hotel",
+      "location": "Miami, USA",
+      "price": 150,
+      "rating": 4.7,
+      "image": "/images/hotel3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Royal Heritage Palace",
+      "location": "Jaipur, India",
+      "price": 180,
+      "rating": 4.8,
+      "image": "/images/hotel4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "City Lights Hotel",
+      "location": "New York, USA",
+      "price": 200,
+      "rating": 4.6,
+      "image": "/images/hotel5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cozy Cabin Retreat",
+      "location": "Shimla, India",
+      "price": 80,
+      "rating": 4.4,
+      "image": "/images/hotel6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tropical Escape Resort",
+      "location": "Bali, Indonesia",
+      "price": 130,
+      "rating": 4.7,
+      "image": "/images/hotel7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Desert Mirage Hotel",
+      "location": "Dubai, UAE",
+      "price": 250,
+      "rating": 4.9,
+      "image": "/images/hotel8.jpg"
+    }
+  ]
+  
